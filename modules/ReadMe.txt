@@ -1,0 +1,1 @@
+These files are compressed modules and must be decompressed to become available to Sower Applications. Sower Configuration Viewer can be used to determine where modules should be placed for your installation of the Sower software.
